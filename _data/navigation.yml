@@ -7,3 +7,24 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+docs:
+  - title: About KAPA
+    children:
+      - title: "Schedule"
+        url: /docs/schedule/
+      - title: "Performance"
+        url: /docs/performance/
+
+  - title: KAPA Science
+    children:
+      - title: "Galactic Center"
+        url: /docs/sci/gc/
+      - title: "Dark Matter with Lenses"
+        url: /docs/sci/dm_lens/
+      - title: "Proto-planets"
+        url: /docs/sci/planets/
+      - title: "Lensed Galaxies"
+        url: /docs/sci/exgal/
+
+
