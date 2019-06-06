@@ -1,8 +1,23 @@
 ---
 permalink: /about/
-title: "About"
+title: "About KAPA"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+KAPA stands for the **K**eck **A**ll-sky **P**recision **A**daptive-optics project launched in
+2018 and aiming for first-light in 2024.
+KAPA will upgrade the existing Keck I adaptive optics (AO) system to add multiple
+laser guide stars (LGS) and laser-tomographic reconstruction to correct for the cone-effect.
+KAPA also adds a faster real-time controller computer, support for IR tip-tilt sensing with
+TRICK, and PSF reconstruction. The gains will include increased sky coverage, improved image quality,
+and better extraction of scientific information from the resulting images and spectra.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+KAPA feeds the OSIRIS imager and spectrograph. KAPA has four key science objectives:
+
+**FIX**
+* Galactic Center
+* Dark Matter with Strongly Lensed Galaxies
+* Proto-Planets
+* Galaxy Formation and Evolution with Lensed Galaxies
+
+
+

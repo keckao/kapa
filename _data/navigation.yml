@@ -12,19 +12,18 @@ docs:
   - title: About KAPA
     children:
       - title: "Schedule"
-        url: /docs/schedule/
+        url: /pages/schedule.md
       - title: "Performance"
-        url: /docs/performance/
+        url: /pages/performance.md
 
   - title: KAPA Science
     children:
       - title: "Galactic Center"
-        url: /docs/sci/gc/
+        url: /pages/sci_gc.md
       - title: "Dark Matter with Lenses"
-        url: /docs/sci/dm_lens/
+        url: /pages/sci_dmlens.md
       - title: "Proto-planets"
-        url: /docs/sci/planets/
+        url: /pages/sci_planets.md
       - title: "Lensed Galaxies"
-        url: /docs/sci/exgal/
-
+        url: /pages/sci_exgal.md
 

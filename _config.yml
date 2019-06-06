@@ -117,3 +117,5 @@ tag_archive:
 
 breadcrumbs: true
 
+sidebar:
+  nav: "docs"
