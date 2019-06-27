@@ -39,6 +39,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+logo: "/assets/images/kapa.png"
+
 author:
   name   : "Jessica Lu"
   avatar : "/assets/images/bio-photo.jpg"
