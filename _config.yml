@@ -43,7 +43,7 @@ logo: "/assets/images/kapa.png"
 
 author:
   name   : "Jessica Lu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_photo_jlu.jpg"
   bio    : "KAPA Project Scientist, UC Berkeley Astronomy Department"
   links:
     - label: "Website"
@@ -72,19 +72,6 @@ footer:
       url: "https://www.instagram.com/explore/tags/keckobservatory/"
 
 defaults:
-  #_meetings
-  - scope:
-      path: ""
-      type: meetings
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      comments: false
-      share: true
-      related: true
-      sidebar:
-        nav: "docs"
   # _posts
   - scope:
       path: ""
