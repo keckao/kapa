@@ -44,17 +44,17 @@ logo: "/assets/images/kapa.png"
 author:
   name   : "Jessica Lu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "J. Lu, UC Berkeley Astronomy Department"
+  bio    : "KAPA Project Scientist, UC Berkeley Astronomy Department"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://astro.berkeley.edu/faculty-profile/jessica-lu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/jlu_astro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://keckao.github.io/kapa/"
+      url: "https://github.com/jluastro"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -69,7 +69,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/explore/tags/keckobservatory/"
 
 defaults:
   #_meetings
