@@ -10,8 +10,8 @@ sidebar:
 | Role | People |
 |----------- | ------------------ |
 | **Principle Investigator** | Peter Wizinowich (WMKO) | 
-| **Project Scientist** | Jessica Lu (UC Berkeley, GCOI) |
-| **Science Legacy Council Lead** | Andrea Ghez (UCLA, GCOI) |
+| **Project Scientist** | Jessica Lu (UC Berkeley) |
+| **Science Legacy Council Lead** | Andrea Ghez (UCLA) |
 | **ISEE Programs Lead** | Lisa Hunter (UCSC, ISEE)  |
 | **Project Manager** | Jason Chin (WMKO)  |
 | **Dark Matter/Energy Science Leads** | Tommaso Treu (UCLA)  |
