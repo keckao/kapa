@@ -8,7 +8,7 @@ a 3-laser tomographic AO system (LTAO). KAPA offers three fundamental
 improvements over the existing AO system:
 
 * **Higher Strehl** is achieved through the use of three LGS for
-atmospheric tomography to eliminate the “cone effect” (Figure 15).
+atmospheric tomography to eliminate the “cone effect”.
 * **More Sky Coverage** is achieved by using partially AO-corrected near-infrared tip-tilt stars for low-order correction.
 * **Accurate PSFs** are achieved by deploying new reconstruction techniques that use AO telemetry, atmospheric profiling, and extensive instrument calibrations.
 
