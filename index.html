@@ -1,6 +1,36 @@
 ---
 layout: splash
 author_profile: false
-sidebar:
-  nav: "docs"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/goebel_4lasers.jpg
+  caption: "Photo credit: [**Sean Goebel**](https://www.sgphotos.com)"
+excerpt: "KAPA stands for the **K**eck **A**ll-sky **P**recision
+**A**daptive-optics project launched in 2018 and aiming for first-light in 2024.
+KAPA will upgrade Keck I AO to increase sky coverage, improve image quality,
+and provide PSFs for OSIRIS images and spectra."
+intro: 
+feature_row:
+  - image_path: assets/images/K2_AO_Bench_Detail.jpg
+    alt: "KAPA Design"
+    title: "KAPA Design"
+    excerpt: "More technical details on the KAPA design."
+    url: "/design/"
+  - image_path: /assets/images/keck_lensed_sne.png
+    alt: "KAPA Performance"
+    title: "KAPA Performance"
+    excerpt: "More details on the KAPA performance."
+    url: "/performance/"
+  - image_path: /assets/images/gc_orbits.png
+    title: "KAPA Science"
+    excerpt: "More details on the KAPA key science cases."
+    url: "/science/"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+
+

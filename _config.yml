@@ -1,7 +1,7 @@
 title: KAPA
 email: jlu.astro@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Public site for the Keck All-sky Precision Adaptive-optics (KAPA) site.
+  The Keck All-sky Precision Adaptive-optics (KAPA) public website.
 github_username: keckao
 minimal_mistakes_skin: default
 search: true
@@ -83,6 +83,8 @@ defaults:
       comments: false
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   # _posts
   - scope:
       path: ""
@@ -94,6 +96,8 @@ defaults:
       comments: false
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
@@ -101,6 +105,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar:
+        nav: "docs"
   # _docs
   - scope:
       path: ""

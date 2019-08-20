@@ -1,29 +1,40 @@
 main:
+  - title: "Design"
+    url: /design/
+  - title: "Performance"
+    url: /performance/
+  - title: "Science"
+    url: /science/
   - title: "Meetings"
     url: /meetings/
-  - title: "Posts"
+  - title: "Blog Posts"
     url: /posts/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
 
 docs:
   - title: About KAPA
+    url: /about/
     children:
+      - title: "Overview"
+        url: /about/
       - title: "Schedule"
-        url: /pages/schedule.md
-      - title: "Performance"
-        url: /pages/performance.md
+        url: /about/schedule/
 
-  - title: KAPA Science
+  - title: Design
+    url: /design/
+        
+  - title: Performance
+    url: /performance/
+
+  - title: Science
     children:
       - title: "Galactic Center"
-        url: /pages/sci_gc.md
+        url: /science/galactic_center/
       - title: "Dark Matter with Lenses"
-        url: /pages/sci_dmlens.md
+        url: /science/dark_matter/
       - title: "Proto-planets"
-        url: /pages/sci_planets.md
+        url: /science/planets/
       - title: "Lensed Galaxies"
-        url: /pages/sci_exgal.md
+        url: /science/galaxies/
 

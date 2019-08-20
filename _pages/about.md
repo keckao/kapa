@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About KAPA"
+sidebar:
+  nav: "docs"
 ---
 
 KAPA stands for the **K**eck **A**ll-sky **P**recision **A**daptive-optics project launched in
