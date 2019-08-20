@@ -46,7 +46,12 @@ with power). The predicted performance versus LGS asterism radius is
 shown below. A 6.35 arcsec radius has been selected for KAPA,
 as limited by the detector.
 
-![LGS Asterism Radius](/assets/images/lgs_radius.png)
+<figure class="half">
+    <a href="{{ site.url }}{{ site.baseurl }}lgs_radius.png">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lgs_radius.png">
+    </a>
+    <figcaption>KAPA Improvement in Wavefront Error vs. LGS Asterism Radius</figcaption>
+</figure>
 
 
 
