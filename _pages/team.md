@@ -5,6 +5,8 @@ sidebar:
   nav: "docs"
 ---
 
+# KAPA Leadership Team
+
 | Role | People |
 |----------- | ------------------ |
 | **Principle Investigator** | Peter Wizinowich (WMKO) | 
@@ -16,5 +18,4 @@ sidebar:
 | **Galactic Center Science Leads** | Andrea Ghez (UCLA), Mark Morris (UCLA)  |
 | **Galaxy Evolution Science Leads** | Shelley Wright (UCSD), Tucker Jones (UC Davis), Claire Max (UCSC) |
 | **Protoplanets Science Leads** | Michael Liu (UH IfA), Dimitri Mawet (Caltech)  |
-
 

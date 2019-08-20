@@ -15,11 +15,14 @@ and better extraction of scientific information from the resulting images and sp
 
 KAPA feeds the OSIRIS imager and spectrograph. KAPA has four key science objectives:
 
-**FIX**
 * Galactic Center
 * Dark Matter with Strongly Lensed Galaxies
 * Proto-Planets
 * Galaxy Formation and Evolution with Lensed Galaxies
+
+Click through for more details on the [team]({{ site.url }}{{
+site.baseurl }}/about/team/) or [schedule]({{ site.url }}{{
+site.baseurl }}/about/schedule/).
 
 
 
