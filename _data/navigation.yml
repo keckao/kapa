@@ -18,6 +18,8 @@ docs:
     children:
       - title: "Overview"
         url: /about/
+      - title: "Team"
+        url: /about/team/
       - title: "Schedule"
         url: /about/schedule/
 

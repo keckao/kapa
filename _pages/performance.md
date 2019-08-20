@@ -9,6 +9,9 @@ laser and real-time controller) and near-infrared tip-tilt
 sensing. Metrics are for K-band in median seeing at 30 degree zenith
 angle and 60 degree galactic latitude.
 
-![Strehl vs. Sky Coverate](/assets/images/kapa_strehl_skycov.png)
+<figure class="half">
+    <a href="/assets/images/kapa_strehl_skycov.png"><img src="/assets/images/kapa_strehl_skycov.png"></a>
+    <figcaption>KAPA Strehl vs. Sky Coverage</figcaption>
+</figure>
 
 More detailed performance calculations are coming soon.
