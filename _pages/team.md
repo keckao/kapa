@@ -22,12 +22,14 @@ sidebar:
 
 #### KAPA Science
 
+|                        | |
 | Matthew Freeman | UC Berkeley Postdoc |
 | Emily Ramey | UC Berkeley grad |
 | Blake Drechsler | UC Berkeley post-bacc |
 
 #### Dark Matter / Dark Energy
 
+|                        | |
 | Chris Fassnacht | UC Davis Faculty |
 | Simon Birrer | Stanford Postdoc |
 | Chih-Fan Chen | UC Davis grad |
@@ -35,6 +37,7 @@ sidebar:
 
 #### Galactic Centre
 
+|                        | |
 | Tuan Do | UCLA Faculty |
 | Matt Hosek | UCLA Postdoc |
 | Devin Chu | UCLA grad |
@@ -42,9 +45,11 @@ sidebar:
 
 #### Galaxy Evolution
 
+|                        | |
 | Keerthi Chandrasekaran | UC Davis grad |
 | Sanchit Sabhlok | UCSD grad |
 
 #### Protoplanets
 
+|                        | |
 | Jean-Baptiste Ruffio | Caltech Postdoc |
