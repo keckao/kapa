@@ -9,8 +9,8 @@ tags:
 
 ## Future Meetings
 
-### KASM 2020
-[KASM 2020]({{ site.url }}{{site.baseurl }}/KASM_2020/)
+### [KASM 2020]({{ site.url }}{{site.baseurl }}/KASM_2020/)
+Scheduled for 16th & 17th September. Held via Zoom due to the circumstances.
 
 ## Previous Meetings
 
