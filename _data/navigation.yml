@@ -40,13 +40,13 @@ docs:
       - title: "Lensed Galaxies"
         url: /science/galaxies/
 
-  - title: KASM 2020
+  - title: "KASM 2020"
     children:
       - title: "Register"
-      url: /KASM_2020/Registration/
-      - title "Program"
-      url: /KASM_2020/Program/
+        url: /KASM_2020/Registration/
+      - title: "Program"
+        url: /KASM_2020/Program/
       - title: "Participants"
-      url: /KASM_2020/participants/
+        url: /KASM_2020/participants/
       - title: "Organizers"
-      url: /KASM_2020/organizers/
+        url: /KASM_2020/organizers/
