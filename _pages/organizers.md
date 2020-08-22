@@ -1,5 +1,5 @@
 ---
-permalink: /KASM_2020/organizers/
+permalink: /kasm_2020/organizers/
 title: "Organizers"
 sidebar:
   nav: "docs"

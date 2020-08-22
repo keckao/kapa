@@ -7,15 +7,15 @@ sidebar:
 
 Under construction
 
-Sample:
+Example:
 
 ### September 16
 
 
 | Timeslot | Plenary |
 |----------- | ------------------ |
-| 11am | Event [Zoom link](https://www.google.com)
-| 12 am | Event 2 [Zoom link](https://www.google.com) |
+| 11 am | Event <br> [Zoom link](https://www.google.com) |
+| 12 am | Event 2 <br> [Zoom link](https://www.google.com) |
 
 ### September 17
 
