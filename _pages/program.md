@@ -9,7 +9,7 @@ Under construction
 
 Sample:
 
-# September 16
+### September 16
 
 
 | Timeslot | Plenary |
@@ -17,7 +17,7 @@ Sample:
 | 11am | Event [Zoom link](https://www.google.com)
 | 12 am | Event 2 [Zoom link](https://www.google.com) |
 
-# September 17
+### September 17
 
 | Timeslot| Stream A | Stream B |
 | --------| -------- | -------- |
