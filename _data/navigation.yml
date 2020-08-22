@@ -41,13 +41,13 @@ docs:
         url: /science/galaxies/
 
   - title: "KASM 2020"
-    url: /KASM_2020/
+    url: /kasm_2020/
     children:
       - title: "Register"
-        url: /KASM_2020/registration/
+        url: /kasm_2020/registration/
       - title: "Program"
-        url: /KASM_2020/program/
+        url: /kasm_2020/program/
       - title: "Participants"
-        url: /KASM_2020/participants/
+        url: /kasm_2020/participants/
       - title: "Organizers"
-        url: /KASM_2020/organizers/
+        url: /kasm_2020/organizers/

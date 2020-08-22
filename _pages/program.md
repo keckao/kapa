@@ -1,5 +1,5 @@
 ---
-permalink: /KASM_2020/program/
+permalink: /kasm_2020/program/
 title: "Program"
 sidebar:
   nav: "docs"
