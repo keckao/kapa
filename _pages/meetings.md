@@ -10,7 +10,7 @@ tags:
 ## Future Meetings
 
 ### [KASM 2020]({{ site.url }}{{site.baseurl }}/kasm_2020/)
-Scheduled for 16th & 17th September. Held via Zoom due to the circumstances.
+KASM will take place on 16th & 17th September. This year it will be held entirely via Zoom.
 
 ## Previous Meetings
 
