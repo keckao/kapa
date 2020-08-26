@@ -1,11 +1,9 @@
 ---
-permalink: /kasm_2020/program/
-title: "Program"
+permalink: /kasm_2020/agenda/
+title: "Agenda"
 sidebar:
   nav: "docs"
 ---
-
-Under construction
 
 <!-- Example:
 

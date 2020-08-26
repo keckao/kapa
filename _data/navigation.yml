@@ -45,8 +45,8 @@ docs:
     children:
       - title: "Register"
         url: /kasm_2020/registration/
-      - title: "Program"
-        url: /kasm_2020/program/
+      - title: "Agenda"
+        url: /kasm_2020/agenda/
       - title: "Participants"
         url: /kasm_2020/participants/
       - title: "Organizers"
