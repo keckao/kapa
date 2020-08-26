@@ -5,36 +5,36 @@ sidebar:
   nav: "docs"
 ---
 
-**Geoff Chih-Fan Chen**
-UC Davis
+**Geoff Chih-Fan Chen**. 
+UC Davis. 
 <chfchen@ucdavis.edu>
 
-**Devin Chu**
-UCLA
+**Devin Chu**. 
+UCLA. 
 <dchu@astro.ucla.edu>
 
-**Chris Fassnacht**
-UC Davis
+**Chris Fassnacht**. 
+UC Davis. 
 <cdfassnacht@ucdavis.edu>
 
 **Matthew Freeman**  
 UC Berkeley  
 <matthew.s.r.freeman@berkeley.edu>
 
-**Matt Hosek**
-UCLA
+**Matt Hosek**  
+UCLA. 
 <mwhosek@astro.ucla.edu>
 
 **Jessica Lu**  
 UC Berkeley  
 <jlu.astro@berkeley.edu>
 
-**Jean-Baptiste Ruffio**
-Caltech
+**Jean-Baptiste Ruffio**. 
+Caltech. 
 <jruffio@caltech.edu>
 
-**Sanchit Sabhlok**
-UCSD
+**Sanchit Sabhlok**. 
+UCSD. 
 <ssabhlok@ucsd.edu>
 
 
