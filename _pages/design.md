@@ -3,11 +3,11 @@ permalink: /design/
 title: "KAPA Design"
 ---
 
-KAPA upgrades the existing LGS single-conjugate adaptive optics (SCAO) system to
-a 3-laser tomographic AO system (LTAO). KAPA offers three fundamental
+KAPA upgrades the LMCT LGS single-conjugate adaptive optics (SCAO) system to
+a 4-laser tomographic AO system (LTAO). KAPA offers three fundamental
 improvements over the existing AO system:
 
-* **Higher Strehl** is achieved through the use of three LGS for
+* **Higher Strehl** is achieved through the use of four LGS for
 atmospheric tomography to eliminate the “cone effect”.
 * **More Sky Coverage** is achieved by using partially AO-corrected near-infrared tip-tilt stars for low-order correction.
 * **Accurate PSFs** are achieved by deploying new reconstruction techniques that use AO telemetry, atmospheric profiling, and extensive instrument calibrations.
@@ -21,17 +21,17 @@ science cases.
 
 ## Hardware Changes
 The changes required for atmospheric tomography include:
-1. replacing the existing laser on the Keck I Nasmyth platform with a
-   TOPTICA/MPBC fiber laser on the elevation ring for sufficient sodium return
-2. implementing a rotating 3 LGS asterism as part of the beam train
-3. implementing a new wavefront sensor camera, specifically a lower
-noise, larger format OCAM2k camera with three sets of pupil relay
-optics
-4. implementing a new real-time controller to support laser
-tomography
-5. upgrading the existing controls and operations software
-6. minor algorithm changes to the near-infrared TT sensor
-7. developing an operational PSF-R compute facility
+1. Replacing the existing laser on the Keck I Nasmyth platform with a
+   TOPTICA/MPBC fiber laser on the elevation ring for sufficient sodium return.
+2. Implementing a rotating 4 LGS asterism as part of the beam train.
+3. Implementing a new wavefront sensor camera, specifically a lower
+noise, larger format OCAM2k camera with four sets of pupil relay
+optics.
+4. Implementing a new real-time controller to support laser
+tomography.
+5. Upgrading the existing controls and operations software.
+6. Algorithm changes to the near-infrared TT sensor.
+7. Developing an operational PSF-R compute facility.
 
 ## Laser Guide Stars
 KAPA includes the implementation of a TOPTICA Raman-fiber amplifier
@@ -53,6 +53,6 @@ as limited by the detector.
     <figcaption>KAPA Improvement in Wavefront Error vs. LGS Asterism Radius</figcaption>
 </figure>
 
-
+<!-- This section still references the old 3 LGS plan -->
 
 
