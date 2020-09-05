@@ -12,5 +12,4 @@ sidebar:
 * **September 2021**: New real-time controller & wavefront sensor camera operational for science.
 * **January 2023**: Laser tomography system operational for shared-risk science.
 * **August 2023**: MSIP funding ends.
-* **2024**: First light.
 
