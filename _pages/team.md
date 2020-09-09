@@ -20,7 +20,7 @@ sidebar:
 
 # Science Team Members
 
-#### KAPA Science
+#### Project Science
 
 | Matthew Freeman | UC Berkeley Postdoc |
 | Emily Ramey | UC Berkeley grad |
