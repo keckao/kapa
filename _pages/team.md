@@ -18,7 +18,7 @@ sidebar:
 | **Galaxy Evolution Science Leads** | Shelley Wright (UCSD), Tucker Jones (UC Davis), Claire Max (UCSC) |
 | **Protoplanets Science Leads** | Michael Liu (UH IfA), Dimitri Mawet (Caltech) |
 
-# Team Members
+# Science Team Members
 
 #### KAPA Science
 
@@ -48,3 +48,26 @@ sidebar:
 #### Protoplanets
 
 | Jean-Baptiste Ruffio | Caltech Postdoc |
+
+
+
+# Technical Team Members
+
+| Jim Kyke | AO Operations |
+| Jason Chin | Laser & RTC PM |
+| Kelleen Casey | Systems Engineering |
+| Tom Brown | Asterism Gen. & WFS opt. PM |
+| Carlos Correia | Consultant |
+| Marcos van Dam | Consultant |
+| Sylvain Cetre | Controls |
+| Ed Wetherell | Controls |
+| Scott Lilley | Optomechanical |
+| Sam Ragland | AO systems & Science Facility |
+| Jacques Delorme | AO systems & Science Facility |
+| Avinash Surendran | AO systems & Science Facility |
+| Antonin Boucher | Techical Collaborator |
+| Corinne Boyer | Techical Collaborator |
+| Richard Dekany | Techical Collaborator |
+| Simone Esposito | Techical Collaborator |
+| Thierry Fusco | Techical Collaborator |
+| Jean-Pierre Veran | Techical Collaborator |
