@@ -8,7 +8,7 @@ sidebar:
 
 The Galactic center contains the closest supermassive black hole to Earth, which offers an opportunity to study the physics of black holes, and test the theory of General Relativity in extreme conditions. The orbits of several stars around the black hole (particularly the star S0-2) have been observed, which have allowed measurements of the black hole mass to be made.
 
-<figure>
+<figure class="half">
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/gc_orbits_2.png">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gc_orbits_2.png">
     </a>
