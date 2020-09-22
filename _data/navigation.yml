@@ -30,6 +30,7 @@ docs:
     url: /performance/
 
   - title: Science
+    url: /science/
     children:
       - title: "Galactic Center"
         url: /science/galactic_center/
