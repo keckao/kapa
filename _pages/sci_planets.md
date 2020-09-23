@@ -16,7 +16,7 @@ KAPA's ability to use infrared NGS's will allow it to observe the formation of y
     <figcaption>Simulated infrared (K-band) contrast curves for KAPA observations using non-redundant aperture masking. Filled contours show companion detection limits at 5&sigma; for a K=10.0 mag target, assuming expected KAPA Strehl values, PSF calibration uncertainties, photon noise for the target, and detector read noise. Dashed lines show the expected contrasts for 3, 5, and 10 Jupiter mass planets with an age of 1 Myr and a distance of 140 pc, based on evolutionary model from Chabrier et al. (2000)</figcaption>
 </figure>
 
-KAPA will observe young stars in the nearby Taurus and &rho; Oph star forming regions. These regions are optically faint due to extinction, but bright in the infrared where KAPA can operate. KAPA will have a higher angular resolution that JWST, along with a much faster target acquisition time, making it ideal for larger surveys such as this.
+KAPA will observe young stars in the nearby Taurus and &rho; Oph star forming regions. These regions are optically faint due to extinction, but bright in the infrared where KAPA can operate. KAPA will have a higher angular resolution than JWST, along with a much faster target acquisition time, making it ideal for larger surveys such as this.
 
 KAPA's improved Strehl ratio will benefit exoplanet detecton by removing light from the star's PSF halo, as well as improving the detection of companions. Spectroscopy from KAPA, combined with atmospheric models, will be able to estimate tempratures, surface gravities, and compositions of exoplanets. Core accretion models predict a range of temperatures and luminosities, and KAPA will be able to constrain these. 
 
