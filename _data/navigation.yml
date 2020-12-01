@@ -41,14 +41,3 @@ docs:
       - title: "Lensed Galaxies"
         url: /science/galaxies/
 
-  - title: "KASM 2020"
-    url: /kasm_2020/
-    children:
-      - title: "Register"
-        url: /kasm_2020/registration/
-      - title: "Agenda"
-        url: /kasm_2020/agenda/
-      - title: "Participants"
-        url: /kasm_2020/participants/
-      - title: "Organizers"
-        url: /kasm_2020/organizers/
