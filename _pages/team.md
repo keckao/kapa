@@ -23,6 +23,7 @@ sidebar:
 #### Project Science
 
 | Matthew Freeman | UC Berkeley Postdoc |
+| Sean Terry | UC Berkeley Postdoc |
 | Emily Ramey | UC Berkeley grad |
 | Blake Drechsler | UC Berkeley post-bacc |
 
@@ -30,15 +31,15 @@ sidebar:
 
 | Chris Fassnacht | UC Davis Faculty |
 | Simon Birrer | Stanford Postdoc |
-| Chih-Fan Chen | UC Davis grad |
+| Chih-Fan Chen | UC LA postdoc |
 | Anowar Shajib | UC LA grad |
 
 #### Galactic Centre
 
 | Tuan Do | UCLA Faculty |
 | Matt Hosek | UCLA Postdoc |
-| Devin Chu | UCLA grad |
-| Abhimat Gautam | UCLA grad |
+| Devin Chu | UCLA Postdoc |
+| Abhimat Gautam | UCLA Postdoc |
 
 #### Galaxy Evolution
 
@@ -48,23 +49,24 @@ sidebar:
 #### Protoplanets
 
 | Jean-Baptiste Ruffio | Caltech Postdoc |
+| Mark Phillips | IfA Postdoc |
 
 
 
 # Technical Team Members
 
-| Jim Kyke | AO Operations |
-| Jason Chin | Laser & RTC PM |
-| Kelleen Casey | Systems Engineering |
-| Tom Brown | Asterism Gen. & WFS opt. PM |
+| Jim Kyke | Keck AO Operations |
+| Jason Chin | Keck Laser & RTC PM |
+| Kelleen Casey | Keck Systems Engineering |
+| Tom Brown | Keck Asterism Gen. & WFS opt. PM |
 | Carlos Correia | Consultant |
 | Marcos van Dam | Consultant |
-| Sylvain Cetre | Controls |
-| Ed Wetherell | Controls |
-| Scott Lilley | Optomechanical |
-| Sam Ragland | AO systems & Science Facility |
-| Jacques Delorme | AO systems & Science Facility |
-| Avinash Surendran | AO systems & Science Facility |
+| Sylvain Cetre | Keck Controls |
+| Ed Wetherell | Keck Controls |
+| Scott Lilley | Keck Optomechanical |
+| Sam Ragland | Keck AO systems & Science Facility |
+| Jacques Delorme | Keck AO systems & Science Facility |
+| Avinash Surendran | Keck AO systems & Science Facility |
 | Antonin Boucher | Techical Collaborator |
 | Corinne Boyer | Techical Collaborator |
 | Richard Dekany | Techical Collaborator |
