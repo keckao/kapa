@@ -5,6 +5,8 @@ main:
     url: /performance/
   - title: "Science"
     url: /science/
+  - title: "ETC/Strehl"
+    url: /etc-strehl/
   - title: "Meetings"
     url: /meetings/
   - title: "Blog Posts"
@@ -40,4 +42,7 @@ docs:
         url: /science/planets/
       - title: "Lensed Galaxies"
         url: /science/galaxies/
+  
+  - title: ETC/Strehl Calculator
+    url: /etc-strehl/
 
