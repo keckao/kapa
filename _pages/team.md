@@ -55,7 +55,7 @@ sidebar:
 
 # Technical Team Members
 
-| Jim Lyke | Keck AO Operations |
+| Jim Kyke | Keck AO Operations |
 | Jason Chin | Keck Laser & RTC PM |
 | Kelleen Casey | Keck Systems Engineering |
 | Tom Brown | Keck Asterism Gen. & WFS opt. PM |
