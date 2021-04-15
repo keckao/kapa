@@ -6,7 +6,7 @@ main:
   - title: "Science"
     url: /science/
   - title: "Tools"
-    url: /etc-strehl/
+    url: /tools/
   - title: "Meetings"
     url: /meetings/
   - title: "Blog Posts"
