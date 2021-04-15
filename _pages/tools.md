@@ -1,6 +1,6 @@
 ---
-permalink: /etc-strehl/
-title: "ETC/Strehl Calculators"
+permalink: /tools/
+title: "ETC and Strehl Calculator"
 sidebar:
   nav: "docs"
 ---
