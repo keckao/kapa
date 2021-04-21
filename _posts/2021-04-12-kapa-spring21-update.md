@@ -34,7 +34,7 @@ Here is a screenshot taken during the virtual site visit last November. Many mor
 <br>
 <br>
 We invite you to read the KAPA SPIE 2020 paper, <a href="{{ site.url }}{{ site.baseurl }}/assets/docs/KAPA_Paper_for_SPIE2020.pdf" target="_blank">Wizinowich et al. 2020</a>.
-You can find a ton of KAPA updates and status reports presented in this paper. There are also great details given on the future plans and goals for KAPA in the coming years.
+You can find a ton of KAPA updates and status reports presented in this paper. There are also many details given on the plans and goals for KAPA in the coming years.
 <br>
 <br>
 **New Hardware**
@@ -60,7 +60,7 @@ performance once both the faster RTC computer and the faster wavefront sensor ca
 <br>
 <br>
 The outlook for the remainder of 2021 looks great for KAPA. In June the team will meet with the NSF review committee for a detailed design review of the laser tomography facility.
-This coming fall and winter the team will conduct the asterism generator pre-install and the Keck-II RTC + OCAM operations Handover. These advances
+This coming fall and winter the team will conduct the asterism generator pre-install and the Keck-II RTC + OCAM operations handover. These advances
 will enable the project to continue its steadfast progress toward the eventual 2023 KAPA first light! Thanks to all of the scientists and engineers
 that work tirelessly to ensure the project continues to be a massive success!
 <br>
