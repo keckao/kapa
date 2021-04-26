@@ -1,9 +1,11 @@
 ---
 permalink: /tools/
-title: "ETC and Strehl Calculator"
+title: "Tools"
 sidebar:
   nav: "docs"
 ---
+
+<b>ETC and Strehl Calculator</b>
 
 The OSIRIS <a href="https://oirlab.ucsd.edu/osiris/etc/" target="_blank">Exposure Time Calculator (ETC)</a> and <a href="http://bhs.astro.berkeley.edu:8501/" target="_blank">Strehl Calculator</a> can be used to help astronomers asses
 the quality of OSIRIS data achievable for their given science cases. A user of the ETC has the ability to
