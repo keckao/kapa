@@ -9,7 +9,7 @@ sidebar:
 
 | Role | People |
 |----------- | ------------------ |
-| **Principle Investigator** | Peter Wizinowich (WMKO) | 
+| **Principal** | Peter Wizinowich (WMKO) | 
 | **Project Scientist** | Jessica Lu (UC Berkeley) |
 | **Science Legacy Council Lead** | Andrea Ghez (UCLA) |
 | **ISEE Programs Lead** | Lisa Hunter (UCSC, ISEE)  |
@@ -55,21 +55,25 @@ sidebar:
 
 # Technical Team Members
 
-| Jim Lyke | Keck AO Operations |
-| Jason Chin | Keck Laser & RTC PM |
-| Kelleen Casey | Keck Systems Engineering |
-| Tom Brown | Keck Asterism Gen. & WFS opt. PM |
-| Carlos Correia | Consultant |
-| Marcos van Dam | Consultant |
 | Sylvain Cetre | Keck Controls |
-| Ed Wetherell | Keck Controls |
-| Scott Lilley | Keck Optomechanical |
-| Sam Ragland | Keck AO systems & Science Facility |
+| Jason Chin | Keck Laser & RTC PM |
+| Carlos Correia | Consultant |
 | Jacques Delorme | Keck AO systems & Science Facility |
+| Scott Lilley | Keck Optomechanical |
+| Jim Lyke | Keck AO Operations |
+| Sam Ragland | Keck AO systems & Science Facility |
+| Paul Richards | Keck Controls |
 | Avinash Surendran | Keck AO systems & Science Facility |
-| Antonin Boucher | Techical Collaborator |
-| Corinne Boyer | Techical Collaborator |
-| Richard Dekany | Techical Collaborator |
-| Simone Esposito | Techical Collaborator |
-| Thierry Fusco | Techical Collaborator |
-| Jean-Pierre Veran | Techical Collaborator |
+| Marcos van Dam | Consultant |
+| Ed Wetherell | Keck Controls |
+
+
+# Technical Collaborators
+
+| Antonin Boucher | GMT |
+| Corinne Boyer | TMT |
+| Richard Dekany | Caltech |
+| Simone Esposito | Arcetri |
+| Thierry Fusco | LAM |
+| Jean-Pierre Veran | NRC |
+
