@@ -46,3 +46,15 @@ docs:
   - title: Tools
     url: /tools/
 
+  - title: KASM 2021
+    url: /kasm2021/
+    children:
+      - title: "Registration"
+      url: /kasm2021/registration
+      - title: "Agenda"
+      url: /kasm2021/agenda
+      - title: "Participants"
+      url: /kasm2021/participants
+      - title: "Organizers"
+      url: /kasm2021/organizers
+
