@@ -50,11 +50,11 @@ docs:
     url: /kasm2021/
     children:
       - title: "Registration"
-      url: /kasm2021/registration
+        url: /kasm2021/registration
       - title: "Agenda"
-      url: /kasm2021/agenda
+        url: /kasm2021/agenda
       - title: "Participants"
-      url: /kasm2021/participants
+        url: /kasm2021/participants
       - title: "Organizers"
-      url: /kasm2021/organizers
+        url: /kasm2021/organizers
 
