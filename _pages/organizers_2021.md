@@ -5,9 +5,14 @@ sidebar:
   nav: "docs"
 ---
 
-Under construction
+**Matthew Freeman** (co-chair) 
+UC Berkeley  
+<matthew.s.r.freeman@berkeley.edu>
 
-<!-- 
+**Sean Terry** (co-chair)
+UC Berkeley 
+<sean.terry@berkeley.edu>
+ 
 **Geoff Chih-Fan Chen**  
 UC Davis  
 <chfchen@ucdavis.edu>
@@ -20,17 +25,9 @@ UCLA
 UC Davis  
 <cdfassnacht@ucdavis.edu>
 
-**Matthew Freeman**  
-UC Berkeley  
-<matthew.s.r.freeman@berkeley.edu>
-
 **Matt Hosek**  
 UCLA  
 <mwhosek@astro.ucla.edu>
-
-**Jessica Lu**  
-UC Berkeley  
-<jlu.astro@berkeley.edu>
 
 **Jean-Baptiste Ruffio**  
 Caltech  
@@ -39,7 +36,6 @@ Caltech
 **Sanchit Sabhlok**  
 UCSD  
 <ssabhlok@ucsd.edu>
- -->
 
 
 
