@@ -29,6 +29,14 @@ UC Davis
 UCLA  
 <mwhosek@astro.ucla.edu>
 
+**Quinn Konopacky**  
+UCSD  
+<qkonopacky@ucsd.edu>
+
+**Jessica Lu**  
+UC Berkeley  
+<jlu.astro@berkeley.edu>
+
 **Jean-Baptiste Ruffio**  
 Caltech  
 <jruffio@caltech.edu>
