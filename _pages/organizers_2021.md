@@ -5,12 +5,12 @@ sidebar:
   nav: "docs"
 ---
 
-**Matthew Freeman** (co-chair) 
+**Matthew Freeman** (co-chair)   
 UC Berkeley  
 <matthew.s.r.freeman@berkeley.edu>
 
-**Sean Terry** (co-chair)
-UC Berkeley 
+**Sean Terry** (co-chair)  
+UC Berkeley  
 <sean.terry@berkeley.edu>
  
 **Geoff Chih-Fan Chen**  
