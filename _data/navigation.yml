@@ -53,7 +53,9 @@ docs:
         url: /kasm2021/registration
       - title: "Agenda"
         url: /kasm2021/agenda
-      - title: "Participants"
+      - title: "Agenda"
+        url: /kasm2021/logistics
+      - title: "Logistics"
         url: /kasm2021/participants
       - title: "Organizers"
         url: /kasm2021/organizers
