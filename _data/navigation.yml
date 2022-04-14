@@ -55,7 +55,7 @@ docs:
         url: https://isee-telescope-workforce.org/astrotech/
 
   - title: KASM 2022
-    url: /kasm2021/
+    url: /kasm2022/
     children:
       - title: "Registration"
         url: /kasm2022/registration
