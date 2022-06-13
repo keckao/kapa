@@ -49,7 +49,7 @@ docs:
     url: /tools/
     
   - title: Outreach
-    url: 
+    url: /outreach/
     children:
       - title: "AstroTech"
         url: https://isee-telescope-workforce.org/astrotech/
