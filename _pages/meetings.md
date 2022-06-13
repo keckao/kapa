@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Future Meetings
-### [KASM 2022]()
+### [KASM 2022]({{ site.url }}{{site.baseurl }}/kasm2022/)
 
 
 ## Previous Meetings

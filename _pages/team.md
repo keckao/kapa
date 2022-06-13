@@ -20,12 +20,12 @@ sidebar:
 
 # Science Team Members
 
-#### Project Science
+#### Project Team
 
 | Matthew Freeman | UC Berkeley Postdoc |
 | Sean Terry | UC Berkeley Postdoc |
-| Emily Ramey | UC Berkeley grad |
-| Blake Drechsler | UC Berkeley post-bacc |
+<!-- | Emily Ramey | UC Berkeley grad |
+| Blake Drechsler | UC Berkeley post-bacc | -->
 
 #### Dark Matter / Dark Energy
 
