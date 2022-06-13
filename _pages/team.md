@@ -34,12 +34,15 @@ sidebar:
 | Chih-Fan Chen | UC LA postdoc |
 | Anowar Shajib | UC LA grad |
 
-#### Galactic Centre
+#### <a href="https://galacticcenter.astro.ucla.edu/members.html">Galactic Centre</a>
+
+#### [Galactic Centre](https://galacticcenter.astro.ucla.edu/members.html)
 
 | Tuan Do | UCLA Faculty |
 | Matt Hosek | UCLA Postdoc |
 | Devin Chu | UCLA Postdoc |
 | Abhimat Gautam | UCLA Postdoc |
+| Anna Ciurlo | UCLA Postdoc
 
 #### Galaxy Evolution
 
@@ -76,4 +79,10 @@ sidebar:
 | Simone Esposito | Arcetri |
 | Thierry Fusco | LAM |
 | Jean-Pierre Veran | NRC |
+
+
+<!-- 
+To add
+Nils Rundquist 
+-->
 
