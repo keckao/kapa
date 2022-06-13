@@ -9,6 +9,8 @@ main:
     url: /tools/
   - title: "Meetings"
     url: /meetings/
+  - title: "Outreach"
+    url: /outreach/    
   - title: "Blog Posts"
     url: /posts/
   - title: "About"
@@ -49,10 +51,11 @@ docs:
   - title: Outreach
     url: 
     children:
-      - title: "Akamai"
-        url: https://www.akamaihawaii.org/interning/
       - title: "AstroTech"
         url: https://isee-telescope-workforce.org/astrotech/
+      - title: "Akamai"
+        url: https://www.akamaihawaii.org/interning/
+
 
   - title: KASM 2022
     url: /kasm2022/
