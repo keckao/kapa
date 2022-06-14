@@ -24,17 +24,17 @@ sidebar:
 
 | Matthew Freeman | UC Berkeley Postdoc |
 | Sean Terry | UC Berkeley Postdoc |
-<!-- | Emily Ramey | UC Berkeley grad |
-| Blake Drechsler | UC Berkeley post-bacc | -->
+<!-- 
+| Emily Ramey | UC Berkeley grad |
+| Blake Drechsler | UC Berkeley post-bacc | 
+-->
 
 #### Dark Matter / Dark Energy
 
 | Chris Fassnacht | UC Davis Faculty |
 | Simon Birrer | Stanford Postdoc |
-| Chih-Fan Chen | UC LA postdoc |
+| Geoff Chih-Fan Chen | UC LA postdoc |
 | Anowar Shajib | UC LA grad |
-
-#### <a href="https://galacticcenter.astro.ucla.edu/members.html">Galactic Centre</a>
 
 #### [Galactic Centre](https://galacticcenter.astro.ucla.edu/members.html)
 
@@ -48,13 +48,12 @@ sidebar:
 
 | Keerthi Chandrasekaran | UC Davis grad |
 | Sanchit Sabhlok | UCSD grad |
+| Nils-Erik Rundquist | UCSD |
 
 #### Protoplanets
 
 | Jean-Baptiste Ruffio | Caltech Postdoc |
 | Mark Phillips | IfA Postdoc |
-
-
 
 # Technical Team Members
 
@@ -69,6 +68,7 @@ sidebar:
 | Avinash Surendran | Keck AO systems & Science Facility |
 | Marcos van Dam | Consultant |
 | Ed Wetherell | Keck Controls |
+| Sherry Yeh | Keck AO Operations |
 
 
 # Technical Collaborators
@@ -81,8 +81,4 @@ sidebar:
 | Jean-Pierre Veran | NRC |
 
 
-<!-- 
-To add
-Nils Rundquist 
--->
 
