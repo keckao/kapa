@@ -24,6 +24,7 @@ sidebar:
 
 | Matthew Freeman | UC Berkeley Postdoc |
 | Sean Terry | UC Berkeley Postdoc |
+
 <!-- 
 | Emily Ramey | UC Berkeley grad |
 | Blake Drechsler | UC Berkeley post-bacc | 
