@@ -20,11 +20,11 @@ sidebar:
 
 # Science Team Members
 
-#### Project Team
+#### Science Tools Team
 
 | Matthew Freeman | UC Berkeley Postdoc |
 | Sean Terry | UC Berkeley Postdoc |
-
+| Nils-Erik Rundquist | UCSD |
 <!-- 
 | Emily Ramey | UC Berkeley grad |
 | Blake Drechsler | UC Berkeley post-bacc | 
@@ -32,10 +32,16 @@ sidebar:
 
 #### Dark Matter / Dark Energy
 
-| Chris Fassnacht | UC Davis Faculty |
-| Simon Birrer | Stanford Postdoc |
-| Geoff Chih-Fan Chen | UC LA postdoc |
-| Anowar Shajib | UC LA grad |
+| Chris Fassnact | UC Davis Faculty| 
+| Anna Nierenberg | UC Merced Faculty| 
+| Simon Birrer | Stanford Postdoc/SUNY Faculty| 
+| Ioana Zelko | UCLA postdoc| 
+| XiaoLong Du | UCLA postdoc| 
+| Anowar Shajib | NASA Hubble Fellow at UChicago| 
+| Daniel Gilman | UToronto Postdoc| 
+| Veronica Dike | UCLA graduate student| 
+| Shawn Knabel | UCLA graduate student| 
+| Devon Williams | UCLA graduate student| 
 
 #### [Galactic Centre](https://galacticcenter.astro.ucla.edu/members.html)
 
@@ -47,9 +53,9 @@ sidebar:
 
 #### Galaxy Evolution
 
-| Keerthi Chandrasekaran | UC Davis grad |
 | Sanchit Sabhlok | UCSD grad |
-| Nils-Erik Rundquist | UCSD |
+| Keerthi Chandrasekaran | UC Davis grad |
+
 
 #### Protoplanets
 
