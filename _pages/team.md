@@ -25,10 +25,6 @@ sidebar:
 | Matthew Freeman | UC Berkeley Postdoc |
 | Sean Terry | UC Berkeley Postdoc |
 | Nils-Erik Rundquist | UCSD |
-<!-- 
-| Emily Ramey | UC Berkeley grad |
-| Blake Drechsler | UC Berkeley post-bacc | 
--->
 
 #### Dark Matter / Dark Energy
 
