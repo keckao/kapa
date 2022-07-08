@@ -1,6 +1,6 @@
 ---
 permalink: /kasm2022/organizers/
-title: "Organizing Committee"
+title: "Scientific Organizing Committee"
 sidebar:
   nav: "docs"
 ---
