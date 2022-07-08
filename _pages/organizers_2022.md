@@ -5,33 +5,17 @@ sidebar:
   nav: "docs"
 ---
 
-**Matthew Freeman** (co-chair)   
-UC Berkeley  
-<matthew.s.r.freeman@berkeley.edu>
-
-**Sean Terry** (co-chair)  
+**Sean Terry** (chair)  
 UC Berkeley  
 <sean.terry@berkeley.edu>
- 
-**Geoff Chih-Fan Chen**  
-UC Davis  
-<chfchen@ucdavis.edu>
 
 **Devin Chu**  
 UCLA  
 <dchu@astro.ucla.edu>
 
-**Chris Fassnacht**  
-UC Davis  
-<cdfassnacht@ucdavis.edu>
-
-**Matt Hosek**  
-UCLA  
-<mwhosek@astro.ucla.edu>
-
-**Quinn Konopacky**  
-UCSD  
-<qkonopacky@ucsd.edu>
+**Matthew Freeman**   
+UC Berkeley  
+<matthew.s.r.freeman@berkeley.edu>
 
 **Jessica Lu**  
 UC Berkeley  
