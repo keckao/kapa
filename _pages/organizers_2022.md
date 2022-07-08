@@ -1,5 +1,5 @@
 ---
-permalink: /kasm2021/organizers/
+permalink: /kasm2022/organizers/
 title: "Organizing Committee"
 sidebar:
   nav: "docs"
