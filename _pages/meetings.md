@@ -8,11 +8,12 @@ tags:
 ---
 
 ## Future Meetings
+
+## Previous Meetings
+
 ### [KASM 2022]({{ site.url }}{{site.baseurl }}/kasm2022/)
 KASM 2022 was a hybrid in-person and virtual event held on September 14th, 2021 at Caltech.
 Presentations and other content from the meeting are located at the shared <a href="https://drive.google.com/drive/folders/1_gg3oRpkLogrgmz2ww4VGKRxPuSldNqc?usp=sharing">Google Drive</a>.
-
-## Previous Meetings
 
 ### [KASM 2021]({{ site.url }}{{site.baseurl }}/kasm2021/)
 KASM 2021 was a hybrid in-person and virtual event held on September 8th, 2021 at UC San Diego.
