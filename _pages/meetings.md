@@ -8,6 +8,7 @@ tags:
 ---
 
 ## Future Meetings
+KASM 2023 - Coming Soon
 
 ## Previous Meetings
 
