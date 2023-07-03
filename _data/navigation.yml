@@ -57,17 +57,17 @@ docs:
         url: https://www.akamaihawaii.org/interning/
 
 
-  - title: KASM 2022
-    url: /kasm2022/
+  - title: KASM 2023
+    url: /kasm2023/
     children:
       - title: "Registration"
-        url: /kasm2022/registration
+        url: /kasm2023/registration
       - title: "Agenda"
-        url: /kasm2022/agenda
+        url: /kasm2023/agenda
       - title: "Logistics"
-        url: /kasm2022/logistics
+        url: /kasm2023/logistics
       - title: "Participants"
-        url: /kasm2022/participants
+        url: /kasm2023/participants
       - title: "Organizers"
-        url: /kasm2022/organizers
+        url: /kasm2023/organizers
 
