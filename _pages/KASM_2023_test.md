@@ -12,9 +12,9 @@ sidebar:
 
 <!-- [Register Here]({{ site.url }}{{site.baseurl }}/kasm2023/registration/) -->
 
-[Agenda]({{ site.url }}{{site.baseurl }}/kasm2022/agenda/)
+[Agenda]({{ site.url }}{{site.baseurl }}/kasm2023/agenda/)
 
-[Participants]({{ site.url }}{{site.baseurl }}/kasm2022/participants/)
+[Participants]({{ site.url }}{{site.baseurl }}/kasm2023/participants/)
 
 The KAPA Annual Science Meeting (KASM) is a place for the extended science teams for the KAPA science surveys to gather, catch up on KAPA progress, provide feedback on KAPA hardware and tools, prepare their survey strategies, and advance their science cases.
 
