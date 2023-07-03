@@ -1,14 +1,14 @@
 ---
-permalink: /kasm2022/
+permalink: /kasm2023/
 title: "KAPA Annual Science Meeting"
 sidebar:
   nav: "docs"
 ---
-**14th September, 2022**
+**6th September, 2023**
 
 ![Photo credit: [**Sean Goebel**](https://www.sgphotos.com)]({{ site.url }}{{ site.baseurl }}/assets/images/goebel_4lasers.jpg "Photo credit: Sean Goebel") 
 
-<!-- [Register Here]({{ site.url }}{{site.baseurl }}/kasm2022/registration/) -->
+<!-- [Register Here]({{ site.url }}{{site.baseurl }}/kasm2023/registration/) -->
 
 [Agenda]({{ site.url }}{{site.baseurl }}/kasm2022/agenda/)
 
@@ -16,14 +16,13 @@ sidebar:
 
 The KAPA Annual Science Meeting (KASM) is a place for the extended science teams for the KAPA science surveys to gather, catch up on KAPA progress, provide feedback on KAPA hardware and tools, prepare their survey strategies, and advance their science cases.
 
-This meeting will take place on September 14th, one day before the start of the 2022 Keck Science Meeting Meeting (KSM). The event will be held in-person at Caltech, with virtual attendance options available via Zoom and Slack. In-person attendees will need to be vaccinated, as per the Caltech vaccine mandate.
-Depending on California state health guidelines for COVID-19, the in-person may switch to all-virtual. Relevant links are available from the [agenda]({{ site.url }}{{site.baseurl }}/kasm2022/agenda/).
+This meeting will take place on September 6th, one day before the start of the 2022 Keck Science Meeting Meeting (KSM). The event will be held in-person at UC Berkeley and will be an IN PERSON meeting only. In-person attendees will need to be vaccinated, as per the UC Berkeley vaccine mandate.
+Depending on California state health guidelines for COVID-19, the in-person may switch to all-virtual. Relevant links are available from the [agenda]({{ site.url }}{{site.baseurl }}/kasm2023/agenda/).
 
 
-For information on travel and lodging logistics, please refer to the KSM travel page <a href="https://kecksciencemeeting.org/home/logistics/" target="_blank">here</a>. **Note**: KASM will take place in the same location as KSM this year; the main auditorium in the Cahill Center (<a href="https://www.google.com/maps/place/Cahill+Center+for+Astronomy+and+Astrophysics/@34.1356888,-118.1283004,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c4a7b2bc8677:0x53f2b4e67b2bc249!8m2!3d34.1356888!4d-118.1261064">map</a>).
-There is metered street parking in front of the Cahill building, as well as a small parking lot behind the building that costs $6/day.
+For information on travel and lodging logistics, please refer to the KSM travel page <a href="https://kecksciencemeeting.org/home/logistics/" target="_blank">here</a>. **Note**: KASM location is currently TBD.
 
-KAPA and KASM are supported by the NSF and the Gordon and Betty Moore Foundation. There are funds available to support early career researchers and KAPA science team members to travel to KASM. If you need travel support, please indicate so on the registration form, or contact the [organizers]({{ site.url }}{{site.baseurl }}/kasm2022/organizers/).
+KAPA and KASM are supported by the NSF and the Gordon and Betty Moore Foundation. There are funds available to support early career researchers and KAPA science team members to travel to KASM. If you need travel support, please indicate so on the registration form, or contact the [organizers]({{ site.url }}{{site.baseurl }}/kasm2023/organizers/).
 
 
 
