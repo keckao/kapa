@@ -1,5 +1,5 @@
 ---
-permalink: /kasm2022/agenda/
+permalink: /kasm2023/agenda/
 title: "Agenda"
 sidebar:
   nav: "docs"

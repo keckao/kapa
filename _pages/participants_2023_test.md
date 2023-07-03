@@ -1,5 +1,5 @@
 ---
-permalink: /kasm2022/participants/
+permalink: /kasm2023/participants/
 title: "Participants"
 sidebar:
   nav: "docs"

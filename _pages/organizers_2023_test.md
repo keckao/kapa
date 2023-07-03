@@ -1,11 +1,15 @@
 ---
-permalink: /kasm2022/organizers/
+permalink: /kasm2023/organizers/
 title: "Scientific Organizing Committee"
 sidebar:
   nav: "docs"
 ---
 
-**Sean Terry** (chair)  
+**Sanchit Sabhlok** (Chair)  
+UCSD  
+<ssabhlok@ucsd.edu>
+
+**Sean Terry**  
 UC Berkeley  
 <sean.terry@berkeley.edu>
 
@@ -28,15 +32,4 @@ UC Berkeley
 **Jean-Baptiste Ruffio**  
 Caltech  
 <jruffio@caltech.edu>
-
-**Sanchit Sabhlok**  
-UCSD  
-<ssabhlok@ucsd.edu>
-
-
-
-
-
-
-
 

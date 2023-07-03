@@ -1,5 +1,5 @@
 ---
-permalink: /kasm2022/logistics/
+permalink: /kasm2023/logistics/
 title: "Logistics"
 sidebar:
   nav: "docs"
@@ -17,19 +17,11 @@ Recommended travel and parking will be updated by mid-August.
 
 **Zoom**
 
-The Zoom details can be found in the KASM 2022 email.
+KASM 2023 is an in person only meeting.
 
 **Covid**
 
-We will following the same protocols as the KSM:
+We will following the same protocols as the Keck Science Meeting.
 
-For those attending in person, please note that Caltech is requiring all persons to be vaccinated.  To ensure we are meeting their guidelines, if you are attending in person, please ensure that you have proof of vaccination with you at the workshop if needed for review.  Please see Caltech’s policy on this vaccine mandate.   We will also be following Caltech’s social distancing and mask policies for this event.
 For information on the policies follow the KSM links <a href="https://kecksciencemeeting.org/home/logistics/" target="_blank">here</a>.
-
-
-
-
-
-
-
 

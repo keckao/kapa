@@ -1,5 +1,5 @@
 ---
-permalink: /kasm2022/registration/
+permalink: /kasm2023/registration/
 title: "Registration"
 sidebar:
   nav: "docs"
