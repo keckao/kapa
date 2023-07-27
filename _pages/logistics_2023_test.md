@@ -18,9 +18,3 @@ Recommended travel and parking will be updated by mid-August.
 
 KASM 2023 is an in person only meeting.
 
-**Covid**
-
-We will following the same protocols as the Keck Science Meeting.
-
-For information on the policies follow the KSM links <a href="https://kecksciencemeeting.org/home/logistics/" target="_blank">here</a>.
-

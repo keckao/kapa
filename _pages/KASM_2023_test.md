@@ -6,8 +6,6 @@ sidebar:
 ---
 **6th September, 2023**
 
-**KASM Website is still under development**
-
 ![Photo credit: [**Sean Goebel**](https://www.sgphotos.com)]({{ site.url }}{{ site.baseurl }}/assets/images/goebel_4lasers.jpg "Photo credit: Sean Goebel") 
 
 <!-- [Register Here]({{ site.url }}{{site.baseurl }}/kasm2023/registration/) -->
