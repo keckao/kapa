@@ -9,7 +9,7 @@ tags:
 
 ## Future Meetings
 ### [KASM 2023]({{ site.url }}{{site.baseurl }}/kasm2023/)
-KASM 2022 was a hybrid in-person and virtual event held on September 6th, 2023 at UC Berkeley.
+KASM 2023 is an in-person event being held on September 6th, 2023 at UC Berkeley.
 
 ## Previous Meetings
 
