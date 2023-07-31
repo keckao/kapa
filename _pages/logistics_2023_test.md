@@ -8,7 +8,7 @@ sidebar:
 
 **Location**
 
-KASM 2023 will be held at UC Berkeley at the (<a href="https://goo.gl/maps/bnBQkSknWNUcoaU79">UC Berkeley Faculty Club</a>). 
+KASM 2023 will be held at UC Berkeley at the <a href="https://goo.gl/maps/bnBQkSknWNUcoaU79">UC Berkeley Faculty Club</a>. 
 
 **Parking**
 
