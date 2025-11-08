@@ -32,7 +32,7 @@ We will focus on imaging with OSIRIS first and then move to spectroscopy.
     </a>
 </p>
 </figure>
-
+Copyright 2025 astrowahl /\/\/
 
 You will see much more activity on this blog in coming months and we hope the Keck AO community finds it valuable. Let me know if there is something specific you would like to see reported on!
 <br>
