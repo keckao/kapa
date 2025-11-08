@@ -1,6 +1,6 @@
 ---
-title: "2025 October Update"
-date: 2025-11-03
+title: "2025 November Update"
+date: 2025-11-07
 categories:
   - blog
 tags:
@@ -27,8 +27,8 @@ We will focus on imaging with OSIRIS first and then move to spectroscopy.
 
 <figure class="half">
 <p class="aligncenter">
-    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/virtual_site_visit_2020.png">
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/virtual_site_visit_2020.png">
+    <a href="{{ site.url }}{{ site.baseurl }}/assets/images/kapa_lgs_20251105.png">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kapa_lgs_20251105.png">
     </a>
 </p>
 </figure>
